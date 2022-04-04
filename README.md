@@ -9,8 +9,11 @@ You are a Data analyst at Carrefour Kenya and are currently undertaking a projec
 This repository contains the following related projects:
 
 Part I: Dimensionality reduction using t-SNE algorithm
+
 Part II: Feature Selection
+
 Part III: Association Rules
+
 Part IV: Anomaly Detection
 
 #### RPubs Links: 
